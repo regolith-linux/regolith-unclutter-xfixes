@@ -1,3 +1,11 @@
+regolith-unclutter-xfixes (1.5-2) bionic; urgency=medium
+
+  [ Ken Gilmer ]
+  * Fix linter warning
+  * Revert "Remove master files"
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sat, 05 Sep 2020 13:58:49 -0700
+
 regolith-unclutter-xfixes (1.5-1) disco; urgency=medium
 
   [ Ken Gilmer ]
