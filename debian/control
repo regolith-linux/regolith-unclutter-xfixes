@@ -18,6 +18,9 @@ Homepage: https://github.com/Airblader/unclutter-xfixes
 Package: regolith-unclutter-xfixes
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Conflicts: unclutter-xfixes
+Replaces: unclutter-xfixes
+Provides: unclutter-xfixes
 Description: A rewrite of unclutter using the x11-xfixes extension
  This package varies from the Ubuntu version as it does not depend 
  on a daemon to cause the program to automatically start.  Rather, 
