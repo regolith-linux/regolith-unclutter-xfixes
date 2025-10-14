@@ -1,3 +1,10 @@
+regolith-unclutter-xfixes (1.5-4) bionic; urgency=medium
+
+  [ Khosrow Moossavi ]
+  * feat: use build-only to test pull request
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Tue, 14 Oct 2025 00:45:04 +0000
+
 regolith-unclutter-xfixes (1.5-3) bionic; urgency=medium
 
   [ Khosrow Moossavi ]
